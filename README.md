@@ -1,3 +1,3 @@
 # LearnJQuery
 
-A Learning resource for JQuery provided by earn.jquery.com
+A Learning resource for JQuery provided by learn.jquery.com
